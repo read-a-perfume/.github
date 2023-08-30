@@ -1,12 +1,52 @@
-## Hi there 👋
+## 소개
+- 향수 리뷰 웹사이트를 개발합니다. 🐾
 
-<!--
 
-**Here are some ideas to get you started:**
+## 제공될 기능
+### 사용자 기능
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 일반 회원은 아이디, 비밀번호를 통해 회원가입 및 로그인이 가능합니다. 혹은 구글 OAuth를 통해 간편 로그인도 가능합니다.
+- 기업 관리자 회원은 회원 가입 시 아이디, 비밀번호 뿐만 아니라 사업자 등록번호 등을 입력한 후 서비스 관리자가 회원 가입을 승인해야 합니다.
+
+### 리뷰 기능
+
+- 리뷰하고 싶은 향수를 고르고 사진+영상을 입력할 수 있습니다.
+- 어울리는 분위기, 계절 등을 선택할 수 있으며, 한줄평과 상세 내용을 작성할 수 있습니다.
+- 리뷰에는 좋아요를 누르거나 댓글을 달 수 있습니다.
+- 한 사용자는 하루에 최대 10개의 리뷰를 작성할 수 있습니다.
+
+### 향수 정보 기능
+
+- 상품 공식 사진과 소개, 구성된 노트 등을 확인할 수 있습니다.
+- read-a-perfume에서 선정한 향수에 어울리는 이미지를 제공해 향수에 대한 이해를 돕습니다.
+- 지속력, 무게감, 어울리는 계절 등에 대한 리뷰 기반 통계 결과를 확인할 수 있습니다.
+- 향수에 대한 대표 리뷰를 확인할 수 있습니다.
+
+### 기업 관리자 페이지 기능
+
+- 기업의 향수를 등록해 직접 관리할 수 있습니다.
+- 기업 관리자가 추천하는 향수 등 컨텐츠를 담은 공식 포스트를 작성할 수 있습니다.
+- 회원 정보 수정 혹은 탈퇴를 할 수 있습니다.
+
+### 사용자 페이지 기능
+
+- 회원 정보 수정 혹은 탈퇴를 할 수 있습니다.
+- 좋아하는 카테고리를 **내 타입**으로 지정해둘 수 있습니다.
+- 내가 작성한 리뷰를 모아볼 수 있습니다.
+- 다른 사용자를 팔로우할 수 있습니다.
+- 즐겨찾기한 제품 목록을 볼 수 있습니다.
+
+### 메인 페이지 기능
+
+- 사용자가 지정한 내 타입에 해당하는 추천 향수를 볼 수 있습니다.
+- 사용자가 팔로우한 친구들의 리뷰를 모아볼 수 있습니다.
+- 최신 리뷰를 모아볼 수 있습니다.
+- 사람들이 많이 조회하고 검색한 향수의 정보를 모아볼 수 있습니다.
+
+### 알림 기능
+
+- 내 글에 달린 댓글에 대한 알림을 제공합니다.
+
+### 통합 검색 기능
+
+- 검색어를 입력하여 향수 혹은 리뷰글을 검색할 수 있습니다.
