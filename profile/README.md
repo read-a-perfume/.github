@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/read-a-perfume/.github/assets/72547111/25046406-4c17-41d1-a057-bf3ff70fb6c4" alt="logo" width="350px" height="350px" />
+</p>
+
 ## 소개
 - 향수 리뷰 웹사이트를 개발합니다. 🐾
 
